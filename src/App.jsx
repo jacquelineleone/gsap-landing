@@ -37,8 +37,6 @@ function App() {
           </div>
         </section>
       </div>
-      <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/GSDevTools3.min.js"></script>
-      <script type="module" src="/app.js"></script>
     </React.Fragment>
   );
 }
